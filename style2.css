@@ -1,0 +1,83 @@
+body
+{
+}
+
+#bandeau 
+{
+text-align:center;
+width:auto;
+height:auto;
+margin-left: 23%;
+margin-right: 20%;
+color:silver;
+font-size:50px;
+font-family: courier new;
+padding: 30px 0px 30px 0px;
+}
+
+textarea
+{
+width:200px;
+height:80px;
+padding-right: 500px;
+box-shadow:1px 1px 2px #C0C0C0 inset;
+background-color:#FFF3F3;
+border:1px solid #F5C5C5;
+border-radius:5px;
+}
+
+#formulaire
+{
+margin-left: 12%;
+padding-left: 240px;
+padding-right: 600px;
+}
+
+ input ,select
+ {
+ background-color:#FFF3F3;
+ padding:3px;
+ border:1px solid #F5C5C5;
+ border-radius:5px;
+ width:200px;
+ box-shadow:1px 1px 2px #C0C0C0 inset;
+ }
+
+input[type=submit]
+{
+width:100px;
+margin-left:360px;
+margin-top:10px;
+box-shadow:1px 1px 2px #C0C0C0 inset;
+cursor:pointer;
+}
+ 
+label 
+{
+margin-top:10px;
+display:block;
+}
+ 
+label.inline 
+{
+display:inline;
+margin-right:50px;
+}
+ 
+ 
+fieldset 
+{
+padding:0 20px 20px 20px;
+margin-bottom:10px;
+border:1px solid #DF3F3F;
+background-color:#FAFAFA;
+}
+
+#footer
+{
+font-family: courier new;
+color: silver;
+text-align:center;
+border-top: solid 4px black;
+margin-top: 65px;
+}
